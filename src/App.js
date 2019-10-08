@@ -12,8 +12,8 @@ function App() {
       <Sidebar />
       <h1>Party Name</h1>
       {/* <SearchBox /> */}
-      {/* <Queue></Queue> */}
-      <TopSearchList></TopSearchList>
+      <Queue></Queue>
+      {/* <TopSearchList></TopSearchList> */}
     </div>
   );
 }
